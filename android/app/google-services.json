@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316236916843",
+    "firebase_url": "https://pubg-eats.firebaseio.com",
+    "project_id": "pubg-eats",
+    "storage_bucket": "pubg-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316236916843:android:a315c10657efbf3050292e",
+        "android_client_info": {
+          "package_name": "com.pubgeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316236916843-p1s8u5brdukbr49gfek7as7mqovp3gls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbCelEBtU0QDmxOaFyZEZmFejj5busP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316236916843-p1s8u5brdukbr49gfek7as7mqovp3gls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
