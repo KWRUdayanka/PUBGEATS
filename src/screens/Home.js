@@ -1,13 +1,12 @@
 import React, { Component } from 'react'
-import { SafeAreaView, StyleSheet, ScrollView, StatusBar,Text, View } from 'react-native'
-
-
+import { Text, View } from 'react-native'
+import Nav from '../navigation/Nav'
 
 export default class Home extends Component {
     render() {
         return (
             <View>
-                <Text>Shop Home</Text>
+                <Text> textInComponent Home </Text>
             </View>
         )
     }
